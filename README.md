@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Bea 👩🏻‍💻
+
+![git](https://user-images.githubusercontent.com/32069720/87797057-93a82380-c820-11ea-9f0f-ebea2b8dda34.jpg)
 
 <!--
 **beacarlos/beacarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
